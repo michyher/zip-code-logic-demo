@@ -15,8 +15,7 @@ This is a simple React app that demonstrates conditional logic based on ZIP code
 
 ## 📸 Demo
 
-![screenshot](public/demo-screenshot.png)  
-<small>(Optional: Add a real screenshot or deploy to Netlify and drop a link here)</small>
+https://zip-code-logic-demo.netlify.app/
 
 ## 🚀 Tech Stack
 
